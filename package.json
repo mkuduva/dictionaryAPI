@@ -1,7 +1,7 @@
 {
   "name": "dictionary-api",
   "version": "0.1.0",
-  "homepage": "https://mkuduva.github.io/CFAchallenge",
+  "homepage": "https://mkuduva.github.io/dictionaryAPI",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
