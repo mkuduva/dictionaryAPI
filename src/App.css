@@ -1,38 +1,70 @@
+@import url(
+'https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url(
+'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;0,800;1,300&display=swap');
+@import url(
+'https://fontlibrary.org//face/iosevka-extended');
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  height: 1000vh;
+  width: 100vw;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: #FDF5E6;
+  font-family:'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-family: 'IosevkaHeavyExtendedItalic', cursive;
+  color: #CD5C5C;
+  padding: 1.5em;
+}
+
+h2{
+  font-size: 30px;
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+
+h4{
+  color: #CD5C5C;
+}
+
+input{
+  width: 400px;
+  height: 38px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.searchBox > button{
+  background-color: #CD5C5C;
+  height: 38px;
+  width: 60px;
+  border: none;
   color: white;
+  cursor: pointer;
+  padding: 0;
 }
 
-.App-link {
-  color: #61dafb;
+.definition {
+  width: 500px;
+  padding: 20px;
+  background-color: #fdedd6;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.showResults{
+  width: 500px;
+  padding: 20px;
 }
+
+.showResults > h2 > button{
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+
