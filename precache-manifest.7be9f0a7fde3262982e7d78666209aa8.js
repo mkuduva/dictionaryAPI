@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6def37bac39f99f43e4d",
+    "revision": "a10569ca3597c10e25c0",
     "url": "/dictionaryAPI/static/css/main.a96959e2.chunk.css"
   },
   {
-    "revision": "6def37bac39f99f43e4d",
-    "url": "/dictionaryAPI/static/js/main.6bef48cf.chunk.js"
+    "revision": "a10569ca3597c10e25c0",
+    "url": "/dictionaryAPI/static/js/main.74f5cb7d.chunk.js"
   },
   {
     "revision": "53988a1f4927d574a93b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/dictionaryAPI/static/js/3.333ed05c.chunk.js"
   },
   {
-    "revision": "77f0097956d539ea53a2e667d8644155",
+    "revision": "a835a033286dcb8a9c251fbcf204fdae",
     "url": "/dictionaryAPI/index.html"
   }
 ];
