@@ -1,0 +1,15 @@
+{
+  "main.css": "/dictionaryAPI/static/css/main.a96959e2.chunk.css",
+  "main.js": "/dictionaryAPI/static/js/main.6bef48cf.chunk.js",
+  "main.js.map": "/dictionaryAPI/static/js/main.6bef48cf.chunk.js.map",
+  "runtime~main.js": "/dictionaryAPI/static/js/runtime~main.f44723a3.js",
+  "runtime~main.js.map": "/dictionaryAPI/static/js/runtime~main.f44723a3.js.map",
+  "static/js/2.6ca77bf0.chunk.js": "/dictionaryAPI/static/js/2.6ca77bf0.chunk.js",
+  "static/js/2.6ca77bf0.chunk.js.map": "/dictionaryAPI/static/js/2.6ca77bf0.chunk.js.map",
+  "static/js/3.333ed05c.chunk.js": "/dictionaryAPI/static/js/3.333ed05c.chunk.js",
+  "static/js/3.333ed05c.chunk.js.map": "/dictionaryAPI/static/js/3.333ed05c.chunk.js.map",
+  "index.html": "/dictionaryAPI/index.html",
+  "precache-manifest.5fca7aa7f19b3733fda2576b0f039020.js": "/dictionaryAPI/precache-manifest.5fca7aa7f19b3733fda2576b0f039020.js",
+  "service-worker.js": "/dictionaryAPI/service-worker.js",
+  "static/css/main.a96959e2.chunk.css.map": "/dictionaryAPI/static/css/main.a96959e2.chunk.css.map"
+}
